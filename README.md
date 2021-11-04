@@ -1,4 +1,4 @@
-请访问：mffy.github.io/vue3_study
+请访问：https://mffy.github.io/vue3_study
 
 ## 笔记
 ## 使用VuePress搭建github在线blog
