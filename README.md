@@ -1,3 +1,5 @@
+请访问：mffy.github.io/vue3_study
+
 ## 笔记
 ## 使用VuePress搭建github在线blog
 - 创建一个远程仓库 xxx_ts_study
